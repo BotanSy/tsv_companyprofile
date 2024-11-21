@@ -84,6 +84,7 @@
   #hamburger-menu {
     display: none;
   }
+
   
   /* Hero Section */
   .hero {
@@ -427,6 +428,7 @@
     html {
       font-size: 62.5%;
     }
+
   
     #hamburger-menu {
       display: inline-block;
